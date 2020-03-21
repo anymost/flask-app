@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ffa2392-35a7-43f5-bcdd-01c90a84a58a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRMWJUC0iEhOqKqjIdexrfTbUu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ffa2392-35a7-43f5-bcdd-01c90a84a58a" name="Default Changelist" comment="" />
+      <created>1584797483856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584797483856</updated>
+      <workItem from="1584797487502" duration="109000" />
+      <workItem from="1584797621168" duration="2990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="23" width="1000" height="821" key="#Inspections" timestamp="1584797754769">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="220" y="23" width="1000" height="821" key="#Inspections/0.23.1440.821@0.23.1440.821" timestamp="1584797754769" />
+    <state x="184" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584797735263">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="184" y="30" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1584797735263" />
+    <state width="1388" height="178" key="GridCell.Tab.0.bottom" timestamp="1584801546000">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="178" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1584801546000" />
+    <state width="1388" height="178" key="GridCell.Tab.0.center" timestamp="1584801545999">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="178" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1584801545999" />
+    <state width="1388" height="178" key="GridCell.Tab.0.left" timestamp="1584801545999">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="178" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1584801545999" />
+    <state width="1388" height="178" key="GridCell.Tab.0.right" timestamp="1584801546000">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1388" height="178" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1584801546000" />
+    <state x="98" y="23" key="SettingsEditor" timestamp="1584800906770">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="98" y="23" key="SettingsEditor/0.23.1440.821@0.23.1440.821" timestamp="1584800906770" />
+  </component>
+</project>

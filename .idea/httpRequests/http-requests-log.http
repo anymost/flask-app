@@ -1,0 +1,57 @@
+POST https://127.0.0.1:5000
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; user="name"
+
+
+--WebAppBoundary--
+
+###
+
+POST https://127.0.0.1:5000
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; user="name"
+
+
+--WebAppBoundary--
+
+###
+
+POST https://127.0.0.1:5500
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; user="name"
+
+
+--WebAppBoundary--
+
+###
+
+POST http://localhost:5000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-21T095831.500.html
+
+###
+
+POST http://localhost:5000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-21T095808.200.html
+
+###
+
+POST http://localhost:5000
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-21T095723.200.html
+
+###
+
